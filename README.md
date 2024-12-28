@@ -11,7 +11,7 @@ This Python-based Hash Cracker tool is designed for ethical hacking and penetrat
 
 ## Prerequisites
 - Python 3.x installed on your system.
-- A wordlist file for testing (e.g., `rockyou.txt`).
+- A wordlist file for testing (e.g., `wordlist_file.txt`).
 
 ## Installation
 1. Clone or download this repository.
